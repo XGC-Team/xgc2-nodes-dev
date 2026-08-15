@@ -1,4 +1,4 @@
-module github.com/lxk36/xgc2-nodes-dev
+module github.com/XGC-Team/xgc2-nodes-dev
 
 go 1.26.2
 
